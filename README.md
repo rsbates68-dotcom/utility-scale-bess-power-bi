@@ -12,8 +12,6 @@ The project demonstrates dimensional data modelling, Power Query transformation,
 
 ## Repository contents
 
-Update the filenames below if your final repository uses different names.
-
 ```text
 .
 ├── README.md
@@ -22,7 +20,7 @@ Update the filenames below if your final repository uses different names.
 ├── power-bi/
 │   └── Atlantic_Electricity_BESS_Model.pbix
 ├── data/
-│   └── atlantic_electricity_synthetic_data_2026.csv
+│   └── Atlantic_Electricity_Synthetic_Data_2026.csv
 
 ```
 ### Suggested starting points
